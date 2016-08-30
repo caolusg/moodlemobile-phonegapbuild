@@ -8,7 +8,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "siteurl" : "www.rocketeducation.sg",
-    "siteurl": {"url" : "www.rocketeducation.sg", "username" : "" }
+    "siteurl": {"url" : "www.rocketeducation.sg", "username" : "" },
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile"
 }
